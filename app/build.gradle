@@ -8,7 +8,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.stand.sounder.杂鱼泡泡"
+        applicationId "com.stand.sounder.zaco"
         minSdk 23
         targetSdk 36
         versionCode 1
